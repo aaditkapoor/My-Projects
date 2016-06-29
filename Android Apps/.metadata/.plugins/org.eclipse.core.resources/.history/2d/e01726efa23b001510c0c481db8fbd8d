@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Heavens Point</string>
+    <string name="title_section1">Home</string>
+    <string name="title_section2">Last Orders</string>
+    <string name="title_section3">About</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_contact">Contact us</string>
+    <string name="welcome_message">Welcome to the official app of Heavens Point!</string>
+    <string name="additional_message">Heavens food on your finger tips.</string>
+    <string name="inital_message">Order request for </string>
+
+</resources>

@@ -1,0 +1,4 @@
+INDEX VERSION 1.126+C:\Users\akapo\Dropbox\Android Apps\.metadata\.plugins\org.eclipse.jdt.core
+3322230196.index
+4178326000.index
+50702277.index
